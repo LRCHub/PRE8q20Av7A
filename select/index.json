@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "愛がひとりぼっち",
+  "base_artist": "岩崎良美",
+  "createdAt": "2025-12-30T16:30:47.382256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛がひとりぼっち",
+      "artist": "岩崎良美・他",
+      "has_synced": true,
+      "path": "select/01_愛がひとりぼっち_岩崎良美・他.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛がひとりぼっち",
+      "artist": "Yoshimi Iwasaki",
+      "has_synced": true,
+      "path": "select/02_愛がひとりぼっち_Yoshimi_Iwasaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛がひとりぼっち",
+      "artist": "岩崎良美",
+      "has_synced": true,
+      "path": "select/03_愛がひとりぼっち_岩崎良美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛がひとりぼっち(タッチ　OP2)／岩崎良美",
+      "artist": "岩崎良美",
+      "has_synced": true,
+      "path": "select/04_愛がひとりぼっち(タッチ_OP2)_岩崎良美_岩崎良美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛がひとりぼっち",
+      "artist": "岩崎 良美",
+      "has_synced": false,
+      "path": "select/pl_01_愛がひとりぼっち_岩崎_良美.txt"
+    }
+  ]
+}
